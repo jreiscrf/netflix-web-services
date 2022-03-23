@@ -1,0 +1,231 @@
+[
+    {
+        "titulo": "Vikings",
+        "tipo": "serie",
+        "capa": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/11/alexander-ludwig-vikings-season-6-history.jpg",
+        "logo": "https://occ-0-412-420.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbS1nNcwl06BH2Efx2wSKhT8tTqUQ3LzQ4Nwu4ggyLvo3O-or_qKOMLBrMR8b5yc5SxNrCUUBZ36eEuEEGBz1xOHRpx3bylF7zpo.png?r=94f",
+        "thumb": "https://1.bp.blogspot.com/-PTkZZP9f9IA/WPgK2qiFN3I/AAAAAAAA-PI/hlamg6itt6cnt6zlm7tnSP5TrYAt5EHyQCLcB/s1600/vikings.jpg",
+        "descricao": "Os Vikings tentam dominar  mundo.",
+        "generos": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Ragnar Lotbrook",
+            "Ivar, O Sem Ossos",
+            "Bjorn Ironside"
+        ],
+        "cenas_momentos": [
+            "Espirituoso",
+            "Suspense no ar",
+            "Empolgantes"
+        ]
+    },
+    {
+        "titulo": "The Midnight Club",
+        "tipo": "serie",
+        "capa": "https://miro.medium.com/max/1400/1*Ecz_x_FXp7920U9ktlFypQ.jpeg",
+        "logo": "https://www.gran-turismo.com/gtsport/decal/4981636496821846544_1.png",
+        "thumb": "https://www.papodecinema.com.br/wp-content/uploads/2020/05/20200507-the-midnight-gospel-papo-de-cinema-cartaz-teaser.jpg",
+        "descricao": "Desenho pra quem gosta de viajar na maionese.",
+        "generos": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Fernanda Torres",
+            "Danilo Gentili",
+            "Rogerinho"
+        ],
+        "cenas_momentos": [
+            "Espirituoso",
+            "Suspense no ar",
+            "Empolgantes"
+        ]
+    },
+    {
+        "titulo": "One Piece",
+        "tipo": "serie",
+        "capa": "https://lh6.googleusercontent.com/-xjTjgxgY4OA/VDQ9cG6t4GI/AAAAAAAAH24/3iGrANFxyaM/s0/one%252520piece%252520op_wall_020.jpg",
+        "logo": "https://w7.pngwing.com/pngs/349/508/png-transparent-monkey-d-luffy-nami-trafalgar-d-water-law-one-piece-treasure-cruise-one-piece-brook-jolly-roger-text-logo-banner.png",
+        "thumb": "https://olhardigital.com.br/wp-content/uploads/2021/11/8056a82e973dde98ebb82abd39dc69731564519729_main.jpg",
+        "descricao": "Menino passa anos tentando se tornar o rei dos piratas",
+        "generos": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Roronoa Zoro",
+            "Monkey D Luffy",
+            "Chapapa"
+        ],
+        "cenas_momentos": [
+            "Filmes para toda a família",
+            "Obras de piratas",
+            "Filmes baseados em animes"
+        ]
+    },
+    {
+        "titulo": "Naruto Shippuden",
+        "tipo": "serie",
+        "capa": "https://sm.ign.com/ign_br/screenshot/default/naruto-shippuden_zy11.jpg",
+        "logo": "https://e7.pngegg.com/pngimages/295/792/png-clipart-dream-league-soccer-logo-naruto-uzumaki-naruto-text-orange.png",
+        "thumb": "https://images.justwatch.com/poster/8603866/s718",
+        "descricao": "Garoto tenta mostrar a todos que pode ser presidente de sua vila",
+        "generos": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Uzumaki Naruto",
+            "Hatake Kakashi",
+            "Namikaze Minato"
+        ],
+        "cenas_momentos": [
+            "Filmes para toda a família",
+            "Obras de piratas",
+            "Filmes baseados em animes"
+        ]
+    },
+    {
+        "titulo": "Tropa de Elite 2",
+        "tipo": "filme",
+        "capa": "https://statig3.akamaized.net/fw/3e/nn/z3/3ennz31lgfq5p5ikwn9atjw3i.jpg",
+        "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13f110a9-d6e3-49f9-b274-dadaeda17152/de6wkuu-1d386cc3-2b68-4281-be36-17f6f45d0a31.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEzZjExMGE5LWQ2ZTMtNDlmOS1iMjc0LWRhZGFlZGExNzE1MlwvZGU2d2t1dS0xZDM4NmNjMy0yYjY4LTQyODEtYmUzNi0xN2Y2ZjQ1ZDBhMzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jN59hmDbVfHgXh3YkGd0s5GG_NVF_fTes6NxD59crVA",
+        "thumb": "https://passapalavra.info/wp-content/uploads/2012/08/size_960_16_9_tropa-de-elite-2-divulgacao4.jpg",
+        "descricao": "Policial militar do Rio de Janeiro se descontrola.",
+        "generos": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Wagner Moura",
+            "André Matthias"
+        ],
+        "cenas_momentos": [
+                "Filmes para toda a família",
+                "Obras de piratas",
+                "Filmes baseados em animes"
+        ]
+    },
+    {
+        "titulo": "Django Livre",
+        "tipo": "filme",
+        "capa": "https://boitempoeditorial.files.wordpress.com/2014/04/14-04-03_luiz-bernardo-pericc3a1s_django-livre.jpg",
+        "logo": "https://pngset.com/images/django-unchained-django-unchained-logo-word-alphabet-text-quake-transparent-png-2553206.png",
+        "thumb": "https://imagensemoldes.com.br/wp-content/uploads/2020/12/Arte-para-Camiseta-Django-Livre-731x1024.png",
+        "descricao": "Negro luta contra sistema opressor de sua época",
+        "generos": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Leonardo DiCaprio",
+            "Django",
+            "Mulher do Django"
+        ],
+        "cenas_momentos": [
+            "Filmes para toda a família",
+            "Obras de piratas",
+            "Filmes baseados em animes"
+        ]
+    },
+    {
+        "titulo": "Harry Potter 7 - Parte 2",
+        "tipo": "filme",
+        "capa": "https://salacincoquatro.files.wordpress.com/2020/12/harry-potter-780x520-1-e1607990163895.jpg?w=760",
+        "logo": "https://spng.pinpng.com/pngs/s/67-675610_harry-potter-and-the-deathly-hallows-harry-potter.png",
+        "thumb": "http://3.bp.blogspot.com/-Me5HbLhTUOo/Tayz2H9KoZI/AAAAAAAABp4/bXxaYXkKIkY/s1600/harry-potter-reliquias-parte2-poster-28mar.jpg",
+        "descricao": "Menino tenta matar homem cobra",
+        "generos": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Harry Potter",
+            "Hermione Granjer",
+            "Ronald Wesley"
+        ],
+        "cenas_momentos": [
+            "Filmes para toda a família",
+            "Obras de piratas",
+            "Filmes baseados em animes"
+        ]
+    },
+    {
+        "titulo": "Jogos Vorazes",
+        "tipo": "filme",
+        "capa": "https://geeksaw.com.br/wp-content/uploads/2015/07/a5aolv.png",
+        "logo": "https://img2.gratispng.com/20180615/rxv/kisspng-the-hunger-games-peeta-mellark-mockingjay-finnick-hungry-5b23e70d4a6632.7883679015290795653048.jpg",
+        "thumb": "https://m.media-amazon.com/images/I/A1qd0uaXBeL._AC_SY550_.jpg",
+        "descricao": "Menina tenta salvar irmã de ser massacrada",
+        "generos": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Katniss Everdeen",
+            "Peeta Melark",
+            "Presidente Snow"
+        ],
+        "cenas_momentos": [
+            "Filmes para toda a família",
+            "Obras de piratas",
+            "Filmes baseados em animes"
+        ]
+    },
+    {
+        "titulo": "Shingeki no Kyojin - Atack on Titã",
+        "tipo": "serie",
+        "capa": "https://criticalhits.com.br/wp-content/uploads/2020/10/attack-on-titan-shingeki-no-kyojin-final-season-anime_CDL_1280x720_01.jpg",
+        "logo": "https://toppng.com/public/uploads/preview/ack-chars-shingeki-no-kyojinattack-on-titan-eren-attack-on-titan-logo-drawi-11562916501jrhay7hpww.png",
+        "thumb": "https://i.imgur.com/n0J5hwf.jpg",
+        "descricao": "Gatoro nasce nas muralhas e descobre que ngm gosta dele.",
+        "generos": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Eren Jaeguer",
+            "Armin SeiLáOque",
+            "Mikassa Ackerman"
+        ],
+        "cenas_momentos": [
+            "Filmes para toda a família",
+            "Obras de piratas",
+            "Filmes baseados em animes"
+        ]
+    },
+    {
+        "titulo": "Vingadores",
+        "tipo": "filme",
+        "capa": "https://files.mormonsud.net/wp-content/uploads/2018/05/guerra-infinita.jpg",
+        "logo": "https://w7.pngwing.com/pngs/280/187/png-transparent-hulk-iron-man-spider-man-carol-danvers-captain-america-hulk-marvel-avengers-assemble-avengers-text.png",
+        "thumb": "https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/0/201906131081-uau-posters-filmes-avengers-infinity-war-vingadores-guerra-infinita.jpg",
+        "descricao": "Herois salvando o mundo",
+        "generos": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Tonny Stark",
+            "Tonny Stark",
+            "Tonny Stark"
+        ],
+        "cenas_momentos": [
+            "Filmes para toda a família",
+            "Obras de piratas",
+            "Filmes baseados em animes"
+        ]
+    }
+]
